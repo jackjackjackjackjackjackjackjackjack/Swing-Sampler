@@ -27,7 +27,7 @@ public class MyCanvas extends Canvas
 	        graphics.setColor(Color.blue);
 	        graphics.fillRect(10, 10, 200, 100);
 	        
-	        graphics.setColor(Color.black);
+	        graphics.setColor(Color.yellow);
 	        graphics.drawLine(40, 30, 330, 380);
 	        
 	        for (int i = 0; i < 350; i++)
