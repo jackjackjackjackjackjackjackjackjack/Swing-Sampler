@@ -166,6 +166,7 @@ public class GUIPizza
 	private void makeCenterRegion()
 		{
 		// set up toppings with check boxes in CENTER
+		// that's a spicy pizza pie
 		JPanel panel = new JPanel();
 		panel.setLayout(new BoxLayout(panel, BoxLayout.Y_AXIS));
 		panel.setBorder(BorderFactory.createTitledBorder("Select Toppings"));
